@@ -34,7 +34,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <body className={`${myFont.className} antialiased`}>
+      <body className={`antialiased`}>
         <RootProviders>{children}</RootProviders>
         <GoogleAnalytics gaId="G-R89T0Y46Z4" />
       </body>
