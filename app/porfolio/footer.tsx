@@ -1,3 +1,5 @@
+import { ThemeSwitcher } from "../components/themeSwitcher";
+
  
 export function Footer() {
     return (
@@ -12,6 +14,7 @@ export function Footer() {
             <p className="text-gray-500">
                 © Polar Softwarer Inc. 2024
             </p>
+        <ThemeSwitcher/>
         
         </div>
 
