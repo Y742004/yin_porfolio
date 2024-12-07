@@ -3,9 +3,9 @@ import { Avatar } from "@nextui-org/react";
 export function Section3() {
   return (
     <>
-      <div className="mt-20 ">
+      <div className="mt-20 text-black dark:text-white ">
         <div className="">
-          <p className="text-center text-2xl font-medium">
+          <p className="text-center text-2xl font-medium ">
             Serving world-class developers, world-wide
           </p>
           <div className="grid lg:grid-cols-2 gap-5 mt-5">

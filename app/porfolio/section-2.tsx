@@ -3,7 +3,7 @@ import { Button, Chip } from "@nextui-org/react";
 export function Section2() {
   return (
     <>
-      <div className="border dark:border-gray-500 dark:bg-black bg-white rounded-3xl mt-10 px-10 py-24  grid lg:grid-cols-3 gap-5">
+      <div className="border dark:border-gray-500 dark:bg-black text-black dark:text-white bg-white rounded-3xl mt-10 px-10 py-24  grid lg:grid-cols-3 gap-5">
         <div className=" flex flex-col  gap-5 ">
           <p className="text-7xl font-medium">
             Automated benefits like never before

@@ -4,7 +4,7 @@ import { ThemeSwitcher } from "../components/themeSwitcher";
 export function Footer() {
     return (
         <>
-        <div className="mt-20">
+        <div className="mt-20 text-black dark:text-white">
 <div className="border dark:border-gray-500 dark:bg-black bg-white px-10 pb-10 rounded-3xl">
     <div className=" lg:flex justify-between">
         <div className="flex flex-col gap-3">

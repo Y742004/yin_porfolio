@@ -3,7 +3,7 @@ import { Chip } from "@nextui-org/react";
 export function Section1() {
   return (
     <>
-      <div className="border dark:border-gray-500 dark:bg-black bg-white  rounded-3xl  mt-10 px-10 py-24 ">
+      <div className="border dark:border-gray-500 dark:bg-black bg-white text-black dark:text-white  rounded-3xl  mt-10 px-10 py-24 ">
         <div className="text-center flex flex-col gap-5 ">
           <p className="text-lg">Built for Developers</p>
           <p className="text-2xl font-semibold align-center">

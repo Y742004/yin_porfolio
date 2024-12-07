@@ -46,7 +46,7 @@ export function Section4() {
   ]);
   return (
     <>
-      <div className="mt-10 space-y-5 pt-24" id="projects">
+      <div className="mt-10 space-y-5 pt-24 text-black dark:text-white" id="projects">
         <div className="text-center "  >
           <p className="font-medium text-2xl">And threre is more!</p>
           <p className="text-gray-500 text-lg">Spline is constanly evolving</p>

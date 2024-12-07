@@ -47,7 +47,7 @@ export function Skills() {
 
   return (
     <>
-      <div id="skills" className=" space-y-3 pt-28 mt-20">
+      <div id="skills" className=" space-y-3 pt-28 mt-20 text-black dark:text-white">
         <p className="text-2xl text-center font-medium">Skills</p>
         <div className="">
           <div className="grid grid-cols-2 lg:grid-cols-5 md:grid-cols-3  gap-3 ">
